@@ -1,3 +1,3 @@
 #! /bin/bash 
 
-ebook-convert "./Crypto.recipe" "~/Downloads/Crypto $(date).pdf" --title="Crypto $(date)"
+ebook-convert "./Crypto.recipe" "$HOME/Downloads/Crypto $(date).pdf" --title="Crypto $(date)"
